@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    background-color: #3b5998;
+    height: 60px;
+    position: relative;
+}
+.logo{
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: white;
+    position: relative;
+    top: 8px;
+    left: 20px;
+}
+.logform{
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+.logButton{
+    background-color: blue;
+}
+#l1,#l2{
+    position: absolute;
+    top: -18px;
+} 
